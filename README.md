@@ -1,1 +1,1 @@
-# EMLYON
+# EMLYON's Student Personal Website
